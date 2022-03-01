@@ -1,1 +1,1 @@
-# demo-actions
+# demo-actions with GitHub Actions
